@@ -1,0 +1,10 @@
+{
+  "description": "A personal portfolio web app showcasing professional details, projects, and contact info to enhance online presence and networking opportunities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
