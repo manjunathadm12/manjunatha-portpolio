@@ -11,7 +11,7 @@ export default defineConfig(({ mode }) => {
   const emitSourcemaps = mode === 'development'
 
   return {
-    base:'/manjunatha-portfolio/',
+    base:'/manjunatha-portpolio/',
     build: {
       sourcemap: emitSourcemaps ? 'inline' : false,
       minify: !emitSourcemaps,
